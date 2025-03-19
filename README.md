@@ -5,28 +5,28 @@ This repository contains Python assignments from lessons 08 to 11, covering adva
 ## 📌 Lessons Overview
 
 ### 📜 Lesson 08: Control Modules & Functions
-- 🎯 Demonstrates the use of functions and modules.
-- 🔢 Implements a recursive function to calculate factorial.
-- 🎲 Includes a custom greeting function using the random module.
+-  Demonstrates the use of functions and modules.
+-  Implements a recursive function to calculate factorial.
+-  Includes a custom greeting function using the random module.
 
 ### ⚠️ Lesson 09: Exception Handling
-- 🛑 Implements exception handling with custom exceptions.
-- ❌ Handles user input errors, zero division errors, and negative number errors.
+-  Implements exception handling with custom exceptions.
+-  Handles user input errors, zero division errors, and negative number errors.
 
 ### 📂 Lesson 10: File Handling
-- 📝 Demonstrates writing and reading JSON files.
-- 📊 Stores user data in a structured format.
+-  Demonstrates writing and reading JSON files.
+-  Stores user data in a structured format.
 
 ### 🧮 Lesson 11: Math, DateTime & Calendar
-- 📏 Uses the `math` module for trigonometric and logarithmic calculations.
-- ⏳ Demonstrates working with `datetime` for date manipulations.
-- 📅 Prints a full-year calendar using the `calendar` module.
+-  Uses the `math` module for trigonometric and logarithmic calculations.
+-  Demonstrates working with `datetime` for date manipulations.
+-  Prints a full-year calendar using the `calendar` module.
 
 
 ## 🔗 Let's Connect on LinkedIn
 [**LinkedIn Profile** 👩‍💻](https://www.linkedin.com/in/aleha-shareef/)
 
-A collection of Python assignments designed to enhance coding skills through practical implementation. 💡📚
+A collection of Python assignments designed to enhance coding skills through practical implementation. 💡
 
 
 
