@@ -22,8 +22,11 @@ This repository contains Python assignments from lessons 08 to 11, covering adva
 - ⏳ Demonstrates working with `datetime` for date manipulations.
 - 📅 Prints a full-year calendar using the `calendar` module.
 
-##  Author
-**Aleha Shareef** 
 
-This repository is created as part of Python programming assignments for learning and practice. 🚀
+## 🔗 Let's Connect on LinkedIn
+[**LinkedIn Profile** 👩‍💻](https://www.linkedin.com/in/aleha-shareef/)
+
+A collection of Python assignments designed to enhance coding skills through practical implementation. 💡📚
+
+
 
